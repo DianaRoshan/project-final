@@ -26,5 +26,10 @@
 
 - https://habr.com/ru/articles/259055/
 
-Список выполненных задач:
-...
+- Список выполненных задач:
+- 1-Разобраться со структурой проекта (onboarding).
+- 2-Удалить социальные сети: vk, yandex.
+- ![image](https://github.com/DianaRoshan/project-final/assets/77641186/4a4d7897-4b6b-4eb8-bd48-127c1d905f55)
+- ![image](https://github.com/DianaRoshan/project-final/assets/77641186/11d25100-384c-4f6f-8e40-642587026c2b)
+- ![image](https://github.com/DianaRoshan/project-final/assets/77641186/73a9704e-e8a5-4961-a291-4960e6ffa685)
+
