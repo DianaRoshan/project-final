@@ -32,4 +32,6 @@
 - ![image](https://github.com/DianaRoshan/project-final/assets/77641186/4a4d7897-4b6b-4eb8-bd48-127c1d905f55)
 - ![image](https://github.com/DianaRoshan/project-final/assets/77641186/11d25100-384c-4f6f-8e40-642587026c2b)
 - ![image](https://github.com/DianaRoshan/project-final/assets/77641186/73a9704e-e8a5-4961-a291-4960e6ffa685)
+- 6-Сделать рефакторинг метода com.javarush.jira.bugtracking.attachment.FileUtil#upload чтоб он использовал современный подход для работы с файловой системмой ( Использовала Path, Paths, Files).
+- ![image](https://github.com/DianaRoshan/project-final/assets/77641186/4298f49d-8e8a-4d23-af51-bf1917df6197)
 
