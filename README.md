@@ -34,4 +34,8 @@
 - ![image](https://github.com/DianaRoshan/project-final/assets/77641186/73a9704e-e8a5-4961-a291-4960e6ffa685)
 - 6-Сделать рефакторинг метода com.javarush.jira.bugtracking.attachment.FileUtil#upload чтоб он использовал современный подход для работы с файловой системмой ( Использовала Path, Paths, Files).
 - ![image](https://github.com/DianaRoshan/project-final/assets/77641186/4298f49d-8e8a-4d23-af51-bf1917df6197)
+- Вынести чувствительную информацию в отдельный проперти файл
+- Добавить локализацию минимум на двух языках для шаблонов писем (mails) и стартовой страницы index.html.
+- ![image](https://github.com/DianaRoshan/project-final/assets/77641186/04f16510-04dc-4bc9-8cb2-b7a256f79fa4)
+
 
